@@ -1,3 +1,4 @@
+# TensorFlow/Pytorch implementation of CNN
 
 import torch
 import torch.nn as nn
